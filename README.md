@@ -1,6 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi, I'm Rahul</h1>
-<h3 align="center">❤️ A self-taught programmer 🧑‍💻 and born at very little age😜.</h3>
+<div align="center">
+  <a href="#"><img src="https://github.com/user-attachments/assets/c08f63e5-4187-4885-9843-1b784510f63f" height="700px" /></a>
+  <h1>Hi, I'm Rahul</h1>
+  <h3>❤️ A self-taught programmer 🧑‍💻 and born at a very little age 😜.</h3>
+</div>
+
 
 
 ## 🙋‍♂️ About Me
