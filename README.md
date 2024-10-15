@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="#"><img src="https://github.com/user-attachments/assets/c08f63e5-4187-4885-9843-1b784510f63f" /></a>
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/c08f63e5-4187-4885-9843-1b784510f63f" alt="Profile Image" width="400" height="auto" />
+  </a>
   <h1>Hi, I'm Rahul</h1>
   <h3>❤️ A self-taught programmer 🧑‍💻 and born at a very little age 😜.</h3>
 </div>
