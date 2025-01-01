@@ -68,7 +68,7 @@
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 <p align="center">
     <a href="https://github.com/rahul-COD3/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-COD3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-COD3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&exclude_days=Sun%2CSat"/>
     </a>
 </p>
 
