@@ -6,20 +6,6 @@
   <h3>❤️ A self-taught programmer 🧑‍💻 and born at a very little age 😜.</h3>
 </div>
 
-
-
-## 🙋‍♂️ About Me
-
-- 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-
-<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rahul-COD3.github.io/)**
-
-- 📫 How to reach me **r1303yadav@gmail.com**
-<br/>  
-
-
 ## 🚀 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
