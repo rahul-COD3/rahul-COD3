@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/c08f63e5-4187-4885-9843-1b784510f63f" alt="Profile Image" width="400" height="auto" />
+    <img src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif" alt="Profile" width="150" height="150" style="border-radius:15%; object-fit:cover;" />
   </a>
   
   <!-- Typing Animation -->
