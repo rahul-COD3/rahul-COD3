@@ -29,7 +29,7 @@
 <!-- GitHub Stats with Streak -->
 <p align="center">
     <a href="https://github.com/rahul-COD3/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-COD3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://streak-stats.demolab.com/?user=rahul-COD3&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakNum=FFFFFF&sideNums=00E7FF&currStreakLabel=00E7FF&sideLabels=9E9E9E&dates=9E9E9E&hide_border=true"/>
     </a>
 </p>
 
